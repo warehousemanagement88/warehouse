@@ -16,7 +16,7 @@ html {
 }
 
 .header-wrapper {
-  padding-bottom: 30px;
+  padding-bottom: 2px;
 }
 
 .hero {
@@ -94,7 +94,6 @@ html {
 }
 
 .main-content {
-  padding-top: 2rem;
   color: #3c4172;
   font-family: "Poppins", sans-serif;
 }
@@ -106,7 +105,7 @@ html {
 
 .main-content .section-dark.resume {
   height: 400px;
-  padding-top: 100px;
+  padding-top: 50px;
 }
 
 @media (max-width: 599px) {
@@ -134,7 +133,7 @@ html {
 }
 
 .main-content .section-dark.my-work {
-  padding: 120px;
+  padding: 50px;
 }
 
 @media (max-width: 599px) {
@@ -191,7 +190,7 @@ html {
 }
 
 .main-content .section-light.skills {
-  padding: 100px;
+  padding: 50px;
 }
 
 @media (max-width: 599px) {
@@ -226,7 +225,7 @@ html {
 }
 
 .main-content .section-color.services {
-  padding: 100px;
+  padding: 50px;
   background-color: #43485c;
   color: white;
 }
